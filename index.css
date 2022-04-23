@@ -42,6 +42,13 @@
   height: 100%;
 }
 
+.photo {
+  width: 350px;
+  height: 410px;
+  overflow: hidden;
+  margin: auto;
+}
+
 #place-time {
   background-color: #343a40;
   color: white;

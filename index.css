@@ -1,4 +1,8 @@
 /* Header */
+.navbar-brand {
+  color: #c93e5e !important;
+}
+
 .text-behappy {
   color: #c93e5e !important;
 }
@@ -41,14 +45,14 @@
 #carousel .overlay .row {
   height: 100%;
 }
-
+/* 
 .photo {
   width: 350px;
   height: 410px;
   overflow: hidden;
   margin: auto;
 }
-
+ */
 #place-time {
   background-color: #343a40;
   color: white;
@@ -60,7 +64,7 @@
 
 /* Footer */
 #footer {
-  background: linear-gradient(90deg, #1c3643, #273b47 25%, #1e5372);
+  background: linear-gradient(90deg, #c7647b, #c7647b 25%, #b87b8a);
 }
 
 #footer a {

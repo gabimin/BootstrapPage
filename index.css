@@ -1,19 +1,19 @@
 /* Header */
 .navbar-brand {
-  color: #c93e5e !important;
+  color: #0fb5c8 !important;
 }
 
 .text-behappy {
-  color: #c93e5e !important;
+  color: #0fb5c8 !important;
 }
 
 .btn-behappy {
-  background-color: #c7647b;
+  background-color: #078b9a;
   color: white;
 }
 
 .btn-behappy:hover {
-  background-color: #c93e5e;
+  background-color: #078b9a;
   color: white;
 }
 
@@ -57,7 +57,7 @@
 
 /* Footer */
 #footer {
-  background: linear-gradient(90deg, #c7647b, #c7647b 25%, #b87b8a);
+  background: linear-gradient(90deg, #0bdbf2, #078b9a 25%, #023b41);
 }
 
 #footer a {
